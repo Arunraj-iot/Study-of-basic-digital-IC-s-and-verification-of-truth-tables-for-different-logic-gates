@@ -1,7 +1,7 @@
 ### Study-of-Basic-Gates
 
-## Name: Anbuselvan S
-## Reg no: 212223240008
+## Name: arunraj R
+## Reg no: 212224110006
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
